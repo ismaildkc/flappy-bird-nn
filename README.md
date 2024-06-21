@@ -1,5 +1,3 @@
-Anladım, Python kurulumu gerekli değilse bu adımı çıkararak README dosyasını düzenleyelim. İşte güncellenmiş README dosyası:
-
 # Flappy Bird with Neural Network
 
 This repository contains a Flappy Bird game implementation that uses a neural network for intelligent gameplay. The project leverages the power of artificial intelligence to train a neural network to play the game autonomously.
