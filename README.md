@@ -28,7 +28,9 @@ cd flappy-bird-nn
 ```
 
 ## Usage
-To run the Flappy Bird game with the neural network, open the `index.html` file in your web browser.
+- npm install
+- npm start
+- open `localhost:3000` in your browser
 
 ## How It Works
 The neural network is trained using a genetic algorithm. Here's a high-level overview of the process:
